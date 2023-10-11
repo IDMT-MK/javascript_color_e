@@ -1,5 +1,3 @@
-@charset "UTF-8";
-
 // JavaScript
 
 const color = document.getElementById('myColor');
